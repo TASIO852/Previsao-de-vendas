@@ -12,9 +12,9 @@ Previsao de vendas com os modelos de machine learn de regressao linear e arvore 
 - Passo 1: Entendimento do Desafio
 - Passo 2: Entendimento da Área/Empresa
 - Passo 3: Extração/Obtenção de Dados
-- Passo 4: Ajuste de Dados (Tratamento/Limpeza)
+- Passo 4: Ajuste de Dados
 - Passo 5: Análise Exploratória
-- Passo 6: Modelagem + Algoritmos (Aqui que entra a Inteligência Artificial, se necessário)
+- Passo 6: Modelagem + Algoritmos
 - Passo 7: Interpretação de Resultados
 
 #### Modelos que foram usados 
