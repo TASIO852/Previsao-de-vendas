@@ -6,7 +6,7 @@ Previsao de vendas com os modelos de machine learn de regressao linear e arvore 
 - TV, Jornal e Rádio estão em milhares de reais
 - Vendas estão em milhões
 
-- Dataset: https://drive.google.com/drive/folders/1o2lpxoi9heyQV1hIlsHXWSfDkBPtze-V?usp=sharing
+- [Dataset](https://drive.google.com/drive/folders/1o2lpxoi9heyQV1hIlsHXWSfDkBPtze-V?usp=sharing)
 
 ## Passo a Passo ✔
 
